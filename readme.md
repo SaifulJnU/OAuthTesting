@@ -1,6 +1,6 @@
 # OAuth Basic
 
-## Getting Strat
+## Getting Start
 
 To run golang app:
 ```bash
